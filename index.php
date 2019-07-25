@@ -363,7 +363,7 @@ if (!empty($command)) {
 		<h2>Laravel</h2>
 		<p>
 			<a href="?composer&arg[]=dump-autoload&arg[]=-d&arg[]=laravel/">?composer&amp;arg[]=dump-autoload&amp;arg[]=-d&amp;arg[]=laravel/</a> - dump-autoload<br />
-		    <a href="?artisan&arg[]=laravel&arg[]=key:generation">?artisan&amp;arg[]=laravel&amp;arg[]=key:generation</a> - key generation<br />
+		    <a href="?artisan&arg[]=laravel&arg[]=key:generate">?artisan&amp;arg[]=laravel&amp;arg[]=key:generate</a> - key generation<br />
 		</p>
 	</div>
 </body>
